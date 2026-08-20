@@ -1,0 +1,10 @@
+bcrypt
+beautifulsoup4
+matplotlib
+mplfinance
+mysql-connector-python
+pandas
+requests
+torch
+transformers
+yfinance
